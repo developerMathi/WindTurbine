@@ -1,0 +1,2 @@
+speed can be set between 1 (slow) and 10 (fast). You can adjust the Speed factor in the next line:
+Speed Factor - 5

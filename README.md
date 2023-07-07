@@ -8,4 +8,4 @@ rotates. Also, there is a setting option in a Settings.txt file where the speed 
 https://github.com/developerMathi/WindTurbine/assets/54667723/d8b4650f-4412-413b-b114-cdfcbea6b6e4
 
 # Executable exe file
-
+https://github.com/developerMathi/WindTurbine/blob/master/WindTurbine.exe
